@@ -1,0 +1,9 @@
+[submodule "srsRAN_config"]
+	path = srsRAN_config
+	url = https://github.com/lucabaldesi/srsLTE_ancillary
+[submodule "charm_mander"]
+	path = charm_mander
+	url = https://github.com/lucabaldesi/charm_mander.git
+[submodule "srsRAN"]
+	path = srsRAN
+	url = https://github.com/lucabaldesi/srsRAN.git
